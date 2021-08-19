@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @edcorporan
-- 👀 I’m interested in working on projects that help me to be a good developer. Work on technologies like php, node.js, mysql, etc ...
-- 🌱 I’m currently learning php, js, mysql, laravel...
-- 💞️ I’m looking to collaborate on Web Software...
-- 📫 How to reach me IG: @edwardjeys...
+- 👋 Hi, I’m Edward Corporan
+- 👀 I’m interested in working on web projects.
+- 🌱 I’m currently learning php, js, mysql, git, jquery.
+- 💞️ I’m looking to collaborate on Web Software.
+- 📫 How to reach me: edcorporan3@gmail.com.
 
 <!---
 edcorporan/edcorporan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
