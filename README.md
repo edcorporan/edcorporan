@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Edward Corporan.
-- 💼 I’m Developer Web.
+- 💻 I’m Developer Web.
 - 🏣 I’m the CEO of DigityCode
 - 👀 I’m interested in working on web projects.
 - 🌱 I’m currently learning php, js, mysql, git, jquery.
